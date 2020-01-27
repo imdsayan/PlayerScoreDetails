@@ -1,0 +1,10 @@
+INSERT INTO player_scores(score,match_id,player_id) values (70,3,2);
+INSERT INTO player_scores(score,match_id,player_id) values (86,2,2);
+INSERT INTO player_scores(score,match_id,player_id) values (31,1,2);
+INSERT INTO player_scores(score,match_id,player_id) values (130,3,1);
+INSERT INTO player_scores(score,match_id,player_id) values (70,5,1);
+INSERT INTO player_scores(score,match_id,player_id) values (170,6,1);
+INSERT INTO player_scores(score,match_id,player_id) values (100,5,3);
+INSERT INTO player_scores(score,match_id,player_id) values (170,3,4);
+INSERT INTO player_scores(score,match_id,player_id) values (50,1,4);
+INSERT INTO player_scores(score,match_id,player_id) values (10,3,5);
